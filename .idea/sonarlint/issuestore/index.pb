@@ -11,8 +11,6 @@ M
 src/chess/ChessException.java,2\1\21d85c75bbb5dc0c23b50ef6b7f244499ea59f9e
 H
 src/boardgame/Piece.java,f\7\f7c0d7b204933cce6c86f02bbcf5c27544898e79
-J
-src/chess/pieces/King.java,d\9\d9b3000faae84ba619d472bc343f9814addae9c3
 I
 src/chess/ChessPiece.java,7\1\71903bb1710ecb2497d05dbcfd95a7ebafcda239
 J
