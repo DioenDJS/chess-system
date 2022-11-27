@@ -15,8 +15,6 @@ H
 src/boardgame/Piece.java,f\7\f7c0d7b204933cce6c86f02bbcf5c27544898e79
 H
 src/boardgame/Board.java,e\4\e4b0a6df6d57bc0ccb9e957539275a4cbde2513e
-G
-src/application/UI.java,f\0\f00b20a2ba12c03e5a4a25b29cdf3cfe45d9a93c
 L
 src/chess/ChessPosition.java,9\0\90a7f058c20369970d1f5d1c161ad421280924ef
 I
